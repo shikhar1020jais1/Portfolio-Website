@@ -1,12 +1,12 @@
 {
-  "name": "Alok",
-  "short_name": "Alok",
+  "name": "Shikhar",
+  "short_name": "Shikhar",
   "lang": "en-US",
   "start_url": "index.html",
   "display": "standalone",
   "background_color": "white",
   "orientation": "portrait-primary",
-  "url": "https://alokraj.tech",
+  "url": "https://shikhar1020jais1.github.io",
   "theme_color": "white",
   "prefer_related_applications": true,
   "icons": [
